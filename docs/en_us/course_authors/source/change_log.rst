@@ -10,6 +10,13 @@ Change Log
 
    * - Date
      - Change  
+   * - 04/16/14
+     - In support of new features, added the following sections to :ref:`Multiple Choice` problems:
+
+       * :ref:`Shuffle Answers in a Multiple Choice Problem`
+       * :ref:`Targeted Feedback in a Multiple Choice Problem`
+       * :ref:`Answer Pools in a Multiple Choice Problem`
+
    * - 4/15/14
      - Updated :ref:`Testing Your Course` to include a section on how to :ref:`View Your Live Course`.
    * - 4/11/14
